@@ -4,7 +4,7 @@ This project provides a RESTful API for a social media platform, allowing users 
 
 ## Features
 ### User Management
--**User Registration: Users can sign up for an account by providing a unique username and email.
+-User Registration: Users can sign up for an account by providing a unique username and email.
 -**User Authentication: Registered users can log in to their accounts securely using their credentials.
 -**User Profile: Each user has a profile containing basic information such as username and email.
 ### Post Management
